@@ -1,4 +1,4 @@
-package ru.netology.statistic;
+package Statistic;
 
 public class StatisticsService {
     /**
